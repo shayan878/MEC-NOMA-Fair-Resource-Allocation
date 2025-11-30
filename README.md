@@ -3,6 +3,7 @@
 This repository contains the implementation of optimization models for the article:
 
 "Fair Resource Allocation in an MEC-Enabled Ultra-Dense IoT Network with NOMA" (ICC Workshop 2019)
+
 This article addresses the resource allocation problem in MEC-enabled ultra-dense IoT networks using Non-Orthogonal Multiple Access (NOMA). The article focuses on solving challenging non-convex optimization problems under different fairness constraints, specifically for Alpha = 1 (proportional fairness) and Alpha = ∞ (max-min fairness).
 
 The models implemented in this repository optimize resource allocation for communication networks under these fairness conditions using successive convex approximation (SCA). The goal is to balance energy efficiency, computation efficiency, and fairness among users.
